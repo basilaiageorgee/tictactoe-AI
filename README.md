@@ -2,6 +2,7 @@
 
 This is a simple implementation of the classic Tic-Tac-Toe game in Python, featuring an AI opponent that plays optimally using the Minimax algorithm. The game includes a graphical user interface (GUI) built with Pygame.
 ![image](https://github.com/user-attachments/assets/ec2fd5fe-9ceb-432f-b76d-3a7895e399d9)
+
 ![image](https://github.com/user-attachments/assets/adf3bfd2-700e-4065-97f6-bf21f3eb8a1b)
 
 ## Features
